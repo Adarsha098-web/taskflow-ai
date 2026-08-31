@@ -11,7 +11,7 @@ TaskFlow AI is a simple full-stack task management application developed using R
 - REST API using Spring Boot
 - Responsive frontend built with React
 
-## Tech Stack
+## Tech Stack used
 
 ### Frontend
 - React (Vite)
