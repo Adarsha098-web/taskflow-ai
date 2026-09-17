@@ -1,6 +1,6 @@
 # TaskFlow AI
 
-TaskFlow AI is a simple full-stack task management application developed using React, Spring Boot, and PostgreSQL. It allows users to add, view, and delete tasks through an easy-to-use interface.
+TaskFlow AI is a simple full-stack task management application developed using React, Spring Boot, and PostgreSQL. It allows users to add, view, and delete tasks through an easy-to-use interface/
 
 ## Features
 
